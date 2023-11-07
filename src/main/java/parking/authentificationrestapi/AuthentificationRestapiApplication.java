@@ -8,6 +8,8 @@ public class AuthentificationRestapiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AuthentificationRestapiApplication.class, args);
+
+        System.out.println("test");
     }
 
 }
